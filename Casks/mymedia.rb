@@ -1,6 +1,6 @@
 cask "mymedia" do
-  version "2.1.0"
-  sha256 "01506d7f85ea9eb77eccf0f98530c773117aaab76327ca68eba84ab40ed2b27f"
+  version "3.0.0"
+  sha256 "0cd7e3e566299b33b1300020b5143c3f6063a8d9046eca7244d94d94c5acbb53"
 
   url "https://github.com/photangralenphie/MyMedia/releases/download/v#{version}/MyMedia-v#{version}.dmg"
   name "MyMedia"
